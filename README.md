@@ -1,6 +1,6 @@
 # 🐝 QA Automation Challenge - Colmeia
 
-Este repositório contém a suíte de testes automatizados desenvolvida para o processo seletivo de **Analista de Testes**. O objetivo foi explorar a aplicação Colmeia, validar funcionalidades críticas e documentar bugs utilizando **Cypress**.
+Este repositório contém a suíte de testes automatizados. O objetivo foi explorar a aplicação Colmeia, validar funcionalidades críticas e documentar bugs utilizando **Cypress**.
 
 ## 🛠️ Tecnologias e Boas Práticas
 * **Framework:** Cypress 15.x
